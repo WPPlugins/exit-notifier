@@ -1,0 +1,31 @@
+*** Exit Notifier Changelog ***
+
+2017.02.15
+* Added the ability to completely customize the look of the dialog by modifying the CSS.
+
+2017.02.11 - version 1.2.3
+ * Fixed CSS defining width for text fields affecting more than intended
+
+2015.12.17 - version 1.2.2
+ * Verified compatibility with WordPress 4.4. Updated Behavior tab in settings to clear up how the jQuery selector gets used.
+
+2015.09.25 - version 1.2.1
+ * Rearranged settings into tabs for readability and to reduce the need to scroll. Added backgroundColor option.
+
+2015.09.24 - version 1.2
+ * Added visual controls to the admin settings page.
+
+2015.09.14 - version 1.1.2
+ * Minor terminology updates.
+
+2015.09.14 - version 1.1.1
+ * Added option to change the jQuery selector, allowing you to affect what links are notified.
+
+2015.09.13 - version 1.0.2
+ * Updated default body text to better match compliance suggestions.
+
+2015.08.16 - version 1.0.1
+ * Added options for visual indication on external links and whether or not to use the current window or a new window/tab.
+
+2015.08.15 - version 1.0.0
+ * Initial release

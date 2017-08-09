@@ -1,0 +1,9 @@
+#exit_notifier_settings input[type="text"] {
+	width: 500px;
+}
+#exit_notifier_settings textarea {
+	width: 500px;
+}
+#custom_exit_notifier_css {
+	width: 900px !important;
+}
